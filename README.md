@@ -8,8 +8,8 @@
 <br>
 
 <p align="center">
-  <img src="Lat. Input.png" width="300" />
-  <img src="Lat. Output.png" width="300" />
-  <img src="Tugas 5 (Looping Matriks).png" width="300" />
-  <img src="tugas. output.png" width="300" />
+  <img src="Lat. Input.png.jpeg" width="300" />
+  <img src="Lat. Output.png.jpeg" width="300" />
+  <img src="Tugas 5 (Looping Matriks).png.jpeg" width="300" />
+  <img src="tugas. output.png.jpeg" width="300" />
 </p>
